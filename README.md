@@ -41,3 +41,11 @@ git push -u origin main
 ```
 
 Thay `TEN_USERNAME` bằng username GitHub của bạn. Nếu thư mục đã là một Git repository, bỏ qua `git init`; nếu đã có remote tên `origin`, kiểm tra bằng `git remote -v` thay vì thêm lại.
+## Thành viên nhóm
+
+| STT | Họ và tên | Username GitHub | Nhiệm vụ |
+|---|---|---|---|
+| 1 | Tô Quang Thắng | QuangThawg-sky | Xây dựng chương trình chính, quản lý danh sách thí sinh và tích hợp các chức năng |
+| 2 | Phí Trường Khánh | truongkhanh01052006-glitch | Xây dựng và kiểm tra các lớp thí sinh khối A, B, C |
+| 3 | Vũ Đình Lâm | VuDinhLam05 | Kiểm thử chức năng thêm, hiển thị, tìm kiếm và hoàn thiện tài liệu |
+
